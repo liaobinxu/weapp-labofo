@@ -7,9 +7,9 @@
 
 ## 截图
 
-![登陆](../snapshot/login.png)
+![登陆](https://github.com/liaobinxu/weapp-labofo/blob/master/snapshot/login.png)
 
-![主页](../snapshot/index.png)
+![主页](https://github.com/liaobinxu/weapp-labofo/blob/master/snapshot/index.png)
 
 
 ## Features
